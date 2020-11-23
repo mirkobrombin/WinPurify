@@ -1,0 +1,13 @@
+C:\Users\Mirko\Documents\Visual Studio 2015\Projects\WinPurify Giant\WinPurify Giant\bin\Release\WinPurify Giant.exe.config
+C:\Users\Mirko\Documents\Visual Studio 2015\Projects\WinPurify Giant\WinPurify Giant\bin\Release\WinPurify Giant.exe
+C:\Users\Mirko\Documents\Visual Studio 2015\Projects\WinPurify Giant\WinPurify Giant\bin\Release\WinPurify Giant.pdb
+C:\Users\Mirko\Documents\Visual Studio 2015\Projects\WinPurify Giant\WinPurify Giant\bin\Release\MetroFramework.Design.dll
+C:\Users\Mirko\Documents\Visual Studio 2015\Projects\WinPurify Giant\WinPurify Giant\bin\Release\MetroFramework.dll
+C:\Users\Mirko\Documents\Visual Studio 2015\Projects\WinPurify Giant\WinPurify Giant\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Mirko\Documents\Visual Studio 2015\Projects\WinPurify Giant\WinPurify Giant\bin\Release\System.Management.Automation.dll
+C:\Users\Mirko\Documents\Visual Studio 2015\Projects\WinPurify Giant\WinPurify Giant\obj\Release\WinPurify_Giant.Form1.resources
+C:\Users\Mirko\Documents\Visual Studio 2015\Projects\WinPurify Giant\WinPurify Giant\obj\Release\WinPurify_Giant.Properties.Resources.resources
+C:\Users\Mirko\Documents\Visual Studio 2015\Projects\WinPurify Giant\WinPurify Giant\obj\Release\WinPurify Giant.csproj.GenerateResource.Cache
+C:\Users\Mirko\Documents\Visual Studio 2015\Projects\WinPurify Giant\WinPurify Giant\obj\Release\WinPurify Giant.exe
+C:\Users\Mirko\Documents\Visual Studio 2015\Projects\WinPurify Giant\WinPurify Giant\obj\Release\WinPurify Giant.pdb
+C:\Users\Mirko\Documents\Visual Studio 2015\Projects\WinPurify Giant\WinPurify Giant\obj\Release\WinPurify Giant.csprojResolveAssemblyReference.cache
